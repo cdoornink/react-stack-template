@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0; }
+
+.blue {
+  color: blue; }
+
+.green {
+  color: #327728;
+  background: white; }
+
+.app {
+  margin: 200px;
+  background: #327728; }
+  .app .something {
+    background: blue; }

@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+@import "colors";
+
+.app {
+  margin: 200px;
+  background: $green;
+  .something {
+    background: blue;
+  }
+}
